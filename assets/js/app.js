@@ -79,7 +79,7 @@ function iniciarCalculadora() {
                     const usuarioRegistrado = registrarUsuario(nombre, edad, peso, altura,);
 
                     // Mostrar los usuarios registrados en consola 
-                    console.log("Lista de usuarios registrados:", usuarios);
+                    console.log("Lista de usuarios registrados:", usuarioRegistrado);
 
                     // Mostrar resultado al usuario
                     let mensaje = (`¡Hola ${usuarioRegistrado.nombre}!
@@ -103,3 +103,4 @@ function iniciarCalculadora() {
     }
 
 }
+

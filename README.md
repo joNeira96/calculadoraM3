@@ -15,7 +15,7 @@ abrir la consola DevTools (F12) y seguir las instrucciones:
 ATENCIÓN: Es muy importante, que al momento de abrir la consola se pueda 
 escribir "iniciarCalculadora()", como lo indica el index. Ya que fue necesario agregarlo 
 porque los prompt y las alertas intervenian con el correcto funcionamiento de la consola y/o 
-el index y quise mantenerlas en el código. 
+el index y quise mantenerlas en el código para que en todo momento se puedan visualizar. 
 
 Una vez iniciado el proceso, debes completar con los datos solicitados para que 
 la calculadora pueda realizar las operaciones matematicas requeridas 
